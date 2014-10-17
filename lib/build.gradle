@@ -25,5 +25,7 @@ dependencies {
     compile 'com.github.snowdream.android.database:sqlite:1.0'
     compile 'com.github.snowdream.android:widget:1.1@aar'
     compile 'com.github.snowdream.android:util:0.0.1'
+    compile 'com.github.snowdream.android:resource:0.0.1@aar'
+   
 }
 
